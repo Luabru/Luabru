@@ -1,16 +1,11 @@
-### Hi there 👋
+👋Oii somos uma dupla, Brunna e Luana
+- 🔭 somos estudantes do colégio estadual Leonilda Papen,
+  estamos mo 1*ano A 2023.
+- 🌱 Criamos essa conta para nos ajudar a guardar nossos
+  trabalhos na diciplina de pensamento compuntacional. 
+- 🤔 Estamos aprendendo a trabalhar melhor com a internet por
+  meio desse trabalhos.
+- 👯O melhor de tudo e que pedemos fazer isso juntas, o que
+- 📫 m.brunna@escola.pr.gov.br
+   ⚡xo,xo 
 
-<!--
-**Luabru/Luabru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
